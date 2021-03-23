@@ -1,0 +1,12 @@
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day01.HelloWorld/bin/Debug/netcoreapp3.1/Day01.HelloWorld.deps.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day01.HelloWorld/bin/Debug/netcoreapp3.1/Day01.HelloWorld.runtimeconfig.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day01.HelloWorld/bin/Debug/netcoreapp3.1/Day01.HelloWorld.runtimeconfig.dev.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day01.HelloWorld/bin/Debug/netcoreapp3.1/Day01.HelloWorld.dll
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day01.HelloWorld/bin/Debug/netcoreapp3.1/Day01.HelloWorld.pdb
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day01.HelloWorld/obj/Debug/netcoreapp3.1/Day01.HelloWorld.csprojAssemblyReference.cache
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day01.HelloWorld/obj/Debug/netcoreapp3.1/Day01.HelloWorld.AssemblyInfoInputs.cache
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day01.HelloWorld/obj/Debug/netcoreapp3.1/Day01.HelloWorld.AssemblyInfo.cs
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day01.HelloWorld/obj/Debug/netcoreapp3.1/Day01.HelloWorld.csproj.CoreCompileInputs.cache
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day01.HelloWorld/obj/Debug/netcoreapp3.1/Day01.HelloWorld.dll
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day01.HelloWorld/obj/Debug/netcoreapp3.1/Day01.HelloWorld.pdb
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day01.HelloWorld/obj/Debug/netcoreapp3.1/Day01.HelloWorld.genruntimeconfig.cache

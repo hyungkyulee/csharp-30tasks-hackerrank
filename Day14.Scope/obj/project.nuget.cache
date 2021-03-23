@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bAlAwhZeW1o2qMQXz+TwfYUKDL8voIMcpmLNP/jieEpbovvy0wScYXoc5VNtAiEnT7DeYSXnfP6iJ/RAkyfp3A==",
+  "success": true,
+  "projectFilePath": "/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day14.Scope/Day14.Scope.csproj",
+  "expectedPackageFiles": [
+    "/Users/albert/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

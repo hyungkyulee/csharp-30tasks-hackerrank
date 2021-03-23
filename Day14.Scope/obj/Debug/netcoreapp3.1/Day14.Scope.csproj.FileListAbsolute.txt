@@ -1,0 +1,12 @@
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day14.Scope/bin/Debug/netcoreapp3.1/Day14.Scope.deps.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day14.Scope/bin/Debug/netcoreapp3.1/Day14.Scope.runtimeconfig.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day14.Scope/bin/Debug/netcoreapp3.1/Day14.Scope.runtimeconfig.dev.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day14.Scope/bin/Debug/netcoreapp3.1/Day14.Scope.dll
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day14.Scope/bin/Debug/netcoreapp3.1/Day14.Scope.pdb
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day14.Scope/obj/Debug/netcoreapp3.1/Day14.Scope.csprojAssemblyReference.cache
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day14.Scope/obj/Debug/netcoreapp3.1/Day14.Scope.AssemblyInfoInputs.cache
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day14.Scope/obj/Debug/netcoreapp3.1/Day14.Scope.AssemblyInfo.cs
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day14.Scope/obj/Debug/netcoreapp3.1/Day14.Scope.csproj.CoreCompileInputs.cache
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day14.Scope/obj/Debug/netcoreapp3.1/Day14.Scope.dll
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day14.Scope/obj/Debug/netcoreapp3.1/Day14.Scope.pdb
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day14.Scope/obj/Debug/netcoreapp3.1/Day14.Scope.genruntimeconfig.cache

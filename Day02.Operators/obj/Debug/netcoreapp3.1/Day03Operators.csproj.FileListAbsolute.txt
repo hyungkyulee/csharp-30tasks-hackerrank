@@ -1,0 +1,12 @@
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day03Operators/bin/Debug/netcoreapp3.1/Day03Operators.deps.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day03Operators/bin/Debug/netcoreapp3.1/Day03Operators.runtimeconfig.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day03Operators/bin/Debug/netcoreapp3.1/Day03Operators.runtimeconfig.dev.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day03Operators/bin/Debug/netcoreapp3.1/Day03Operators.dll
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day03Operators/bin/Debug/netcoreapp3.1/Day03Operators.pdb
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day03Operators/obj/Debug/netcoreapp3.1/Day03Operators.csprojAssemblyReference.cache
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day03Operators/obj/Debug/netcoreapp3.1/Day03Operators.AssemblyInfoInputs.cache
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day03Operators/obj/Debug/netcoreapp3.1/Day03Operators.AssemblyInfo.cs
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day03Operators/obj/Debug/netcoreapp3.1/Day03Operators.csproj.CoreCompileInputs.cache
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day03Operators/obj/Debug/netcoreapp3.1/Day03Operators.dll
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day03Operators/obj/Debug/netcoreapp3.1/Day03Operators.pdb
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day03Operators/obj/Debug/netcoreapp3.1/Day03Operators.genruntimeconfig.cache

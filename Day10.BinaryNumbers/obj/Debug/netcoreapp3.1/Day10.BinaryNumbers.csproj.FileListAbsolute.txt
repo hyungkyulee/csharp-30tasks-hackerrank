@@ -1,0 +1,12 @@
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day10.BinaryNumbers/obj/Debug/netcoreapp3.1/Day10.BinaryNumbers.csprojAssemblyReference.cache
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day10.BinaryNumbers/obj/Debug/netcoreapp3.1/Day10.BinaryNumbers.AssemblyInfoInputs.cache
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day10.BinaryNumbers/obj/Debug/netcoreapp3.1/Day10.BinaryNumbers.AssemblyInfo.cs
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day10.BinaryNumbers/obj/Debug/netcoreapp3.1/Day10.BinaryNumbers.csproj.CoreCompileInputs.cache
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day10.BinaryNumbers/bin/Debug/netcoreapp3.1/Day10.BinaryNumbers.deps.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day10.BinaryNumbers/bin/Debug/netcoreapp3.1/Day10.BinaryNumbers.runtimeconfig.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day10.BinaryNumbers/bin/Debug/netcoreapp3.1/Day10.BinaryNumbers.runtimeconfig.dev.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day10.BinaryNumbers/bin/Debug/netcoreapp3.1/Day10.BinaryNumbers.dll
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day10.BinaryNumbers/bin/Debug/netcoreapp3.1/Day10.BinaryNumbers.pdb
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day10.BinaryNumbers/obj/Debug/netcoreapp3.1/Day10.BinaryNumbers.dll
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day10.BinaryNumbers/obj/Debug/netcoreapp3.1/Day10.BinaryNumbers.pdb
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day10.BinaryNumbers/obj/Debug/netcoreapp3.1/Day10.BinaryNumbers.genruntimeconfig.cache

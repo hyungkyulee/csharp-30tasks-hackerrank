@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oVZ/OJnXhnv0a3rAQn8cij4V/pgGcOQGuXK8TN6+L2YA1HsR67FVAjZv/pVvFMlLzudV2eM7KD7g5UoclS2wlA==",
+  "success": true,
+  "projectFilePath": "/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day09.Recursion/Day09.Recursion.csproj",
+  "expectedPackageFiles": [
+    "/Users/albert/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

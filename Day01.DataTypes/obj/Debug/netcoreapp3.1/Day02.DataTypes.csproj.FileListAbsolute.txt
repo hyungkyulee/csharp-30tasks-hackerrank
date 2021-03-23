@@ -1,0 +1,12 @@
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day02.DataTypes/bin/Debug/netcoreapp3.1/Day02.DataTypes.deps.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day02.DataTypes/bin/Debug/netcoreapp3.1/Day02.DataTypes.runtimeconfig.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day02.DataTypes/bin/Debug/netcoreapp3.1/Day02.DataTypes.runtimeconfig.dev.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day02.DataTypes/bin/Debug/netcoreapp3.1/Day02.DataTypes.dll
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day02.DataTypes/bin/Debug/netcoreapp3.1/Day02.DataTypes.pdb
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day02.DataTypes/obj/Debug/netcoreapp3.1/Day02.DataTypes.csprojAssemblyReference.cache
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day02.DataTypes/obj/Debug/netcoreapp3.1/Day02.DataTypes.AssemblyInfoInputs.cache
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day02.DataTypes/obj/Debug/netcoreapp3.1/Day02.DataTypes.AssemblyInfo.cs
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day02.DataTypes/obj/Debug/netcoreapp3.1/Day02.DataTypes.csproj.CoreCompileInputs.cache
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day02.DataTypes/obj/Debug/netcoreapp3.1/Day02.DataTypes.dll
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day02.DataTypes/obj/Debug/netcoreapp3.1/Day02.DataTypes.pdb
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day02.DataTypes/obj/Debug/netcoreapp3.1/Day02.DataTypes.genruntimeconfig.cache

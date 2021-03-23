@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jKNIFrjFzkghLF9V6ntChrpw5QiImCEl/9GCZ9D2BOzA2LtpH3qBhldYpe0I5Ok3ZQq49DT2VotjuBw2BmLy6g==",
+  "success": true,
+  "projectFilePath": "/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day10.BinaryNumbers/Day10.BinaryNumbers.csproj",
+  "expectedPackageFiles": [
+    "/Users/albert/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

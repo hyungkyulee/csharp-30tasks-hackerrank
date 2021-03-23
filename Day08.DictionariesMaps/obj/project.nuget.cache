@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "83tUv/CK4c1nlKK35PPHVsgHJXDvDsY4oSx1/5wdxxnBPqfRMbTDes9OJM+dtMHDRwJ570iTEpHb4ZJ2Iqs+uQ==",
+  "success": true,
+  "projectFilePath": "/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day08.DictionariesMaps/Day08.DictionariesMaps.csproj",
+  "expectedPackageFiles": [
+    "/Users/albert/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

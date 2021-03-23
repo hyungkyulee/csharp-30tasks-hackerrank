@@ -1,0 +1,12 @@
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day05.Loops/bin/Debug/netcoreapp3.1/Day05.Loops.deps.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day05.Loops/bin/Debug/netcoreapp3.1/Day05.Loops.runtimeconfig.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day05.Loops/bin/Debug/netcoreapp3.1/Day05.Loops.runtimeconfig.dev.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day05.Loops/bin/Debug/netcoreapp3.1/Day05.Loops.dll
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day05.Loops/bin/Debug/netcoreapp3.1/Day05.Loops.pdb
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day05.Loops/obj/Debug/netcoreapp3.1/Day05.Loops.csprojAssemblyReference.cache
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day05.Loops/obj/Debug/netcoreapp3.1/Day05.Loops.AssemblyInfoInputs.cache
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day05.Loops/obj/Debug/netcoreapp3.1/Day05.Loops.AssemblyInfo.cs
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day05.Loops/obj/Debug/netcoreapp3.1/Day05.Loops.csproj.CoreCompileInputs.cache
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day05.Loops/obj/Debug/netcoreapp3.1/Day05.Loops.dll
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day05.Loops/obj/Debug/netcoreapp3.1/Day05.Loops.pdb
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day05.Loops/obj/Debug/netcoreapp3.1/Day05.Loops.genruntimeconfig.cache
