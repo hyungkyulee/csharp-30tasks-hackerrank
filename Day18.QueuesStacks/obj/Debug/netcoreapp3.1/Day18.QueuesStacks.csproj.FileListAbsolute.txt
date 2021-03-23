@@ -1,0 +1,12 @@
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day18.QueuesStacks/bin/Debug/netcoreapp3.1/Day18.QueuesStacks.deps.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day18.QueuesStacks/bin/Debug/netcoreapp3.1/Day18.QueuesStacks.runtimeconfig.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day18.QueuesStacks/bin/Debug/netcoreapp3.1/Day18.QueuesStacks.runtimeconfig.dev.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day18.QueuesStacks/bin/Debug/netcoreapp3.1/Day18.QueuesStacks.dll
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day18.QueuesStacks/bin/Debug/netcoreapp3.1/Day18.QueuesStacks.pdb
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day18.QueuesStacks/obj/Debug/netcoreapp3.1/Day18.QueuesStacks.csprojAssemblyReference.cache
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day18.QueuesStacks/obj/Debug/netcoreapp3.1/Day18.QueuesStacks.AssemblyInfoInputs.cache
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day18.QueuesStacks/obj/Debug/netcoreapp3.1/Day18.QueuesStacks.AssemblyInfo.cs
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day18.QueuesStacks/obj/Debug/netcoreapp3.1/Day18.QueuesStacks.csproj.CoreCompileInputs.cache
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day18.QueuesStacks/obj/Debug/netcoreapp3.1/Day18.QueuesStacks.dll
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day18.QueuesStacks/obj/Debug/netcoreapp3.1/Day18.QueuesStacks.pdb
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day18.QueuesStacks/obj/Debug/netcoreapp3.1/Day18.QueuesStacks.genruntimeconfig.cache
