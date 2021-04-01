@@ -40,6 +40,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day17.MoreExceptions", "Day
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day18.QueuesStacks", "Day18.QueuesStacks\Day18.QueuesStacks.csproj", "{6F95CCBE-97E5-42EC-BF23-81B328894319}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day19.Interfaces", "Day19.Interfaces\Day19.Interfaces.csproj", "{A5D9CBFC-7E21-4739-82B8-27FE7DD5FEAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day20.Sorting", "Day20.Sorting\Day20.Sorting.csproj", "{532BBF71-5566-447E-879C-D7F2A28AEC26}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -126,5 +130,13 @@ Global
 		{6F95CCBE-97E5-42EC-BF23-81B328894319}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F95CCBE-97E5-42EC-BF23-81B328894319}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F95CCBE-97E5-42EC-BF23-81B328894319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5D9CBFC-7E21-4739-82B8-27FE7DD5FEAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5D9CBFC-7E21-4739-82B8-27FE7DD5FEAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5D9CBFC-7E21-4739-82B8-27FE7DD5FEAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5D9CBFC-7E21-4739-82B8-27FE7DD5FEAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{532BBF71-5566-447E-879C-D7F2A28AEC26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{532BBF71-5566-447E-879C-D7F2A28AEC26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{532BBF71-5566-447E-879C-D7F2A28AEC26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{532BBF71-5566-447E-879C-D7F2A28AEC26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
