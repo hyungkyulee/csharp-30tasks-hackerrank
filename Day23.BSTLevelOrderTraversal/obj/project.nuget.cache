@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q4nhm/R1f4MBBlNdJuSTb06k81epQNMnEULn64oY4wgSyAZNsiUmHoQuLyQQrUfFWn1LD5maedFiamtSvf7jKg==",
+  "success": true,
+  "projectFilePath": "/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day23.BSTLevelOrderTraversal/Day23.BSTLevelOrderTraversal.csproj",
+  "expectedPackageFiles": [
+    "/Users/albert/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
