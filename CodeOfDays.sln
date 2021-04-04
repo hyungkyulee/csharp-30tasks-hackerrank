@@ -46,6 +46,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day20.Sorting", "Day20.Sort
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day21.Generics", "Day21.Generics\Day21.Generics.csproj", "{8CFBFCD7-E7D1-42B1-9B1E-E3047CCFB3EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day22.BinaryTree", "Day22.BinaryTree\Day22.BinaryTree.csproj", "{B027F4F2-9390-49DB-A544-DB0C795C3CD5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -144,5 +146,9 @@ Global
 		{8CFBFCD7-E7D1-42B1-9B1E-E3047CCFB3EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CFBFCD7-E7D1-42B1-9B1E-E3047CCFB3EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CFBFCD7-E7D1-42B1-9B1E-E3047CCFB3EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B027F4F2-9390-49DB-A544-DB0C795C3CD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B027F4F2-9390-49DB-A544-DB0C795C3CD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B027F4F2-9390-49DB-A544-DB0C795C3CD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B027F4F2-9390-49DB-A544-DB0C795C3CD5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

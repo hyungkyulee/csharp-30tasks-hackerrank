@@ -1,0 +1,12 @@
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day22.BinaryTree/obj/Debug/netcoreapp3.1/Day22.BinaryTree.csprojAssemblyReference.cache
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day22.BinaryTree/obj/Debug/netcoreapp3.1/Day22.BinaryTree.AssemblyInfoInputs.cache
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day22.BinaryTree/obj/Debug/netcoreapp3.1/Day22.BinaryTree.AssemblyInfo.cs
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day22.BinaryTree/obj/Debug/netcoreapp3.1/Day22.BinaryTree.csproj.CoreCompileInputs.cache
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day22.BinaryTree/bin/Debug/netcoreapp3.1/Day22.BinaryTree.deps.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day22.BinaryTree/bin/Debug/netcoreapp3.1/Day22.BinaryTree.runtimeconfig.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day22.BinaryTree/bin/Debug/netcoreapp3.1/Day22.BinaryTree.runtimeconfig.dev.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day22.BinaryTree/bin/Debug/netcoreapp3.1/Day22.BinaryTree.dll
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day22.BinaryTree/bin/Debug/netcoreapp3.1/Day22.BinaryTree.pdb
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day22.BinaryTree/obj/Debug/netcoreapp3.1/Day22.BinaryTree.dll
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day22.BinaryTree/obj/Debug/netcoreapp3.1/Day22.BinaryTree.pdb
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day22.BinaryTree/obj/Debug/netcoreapp3.1/Day22.BinaryTree.genruntimeconfig.cache
