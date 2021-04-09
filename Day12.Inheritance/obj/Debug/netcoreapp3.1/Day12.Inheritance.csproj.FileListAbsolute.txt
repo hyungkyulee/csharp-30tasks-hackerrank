@@ -1,0 +1,11 @@
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day12.Inheritance/bin/Debug/netcoreapp3.1/Day12.Inheritance.deps.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day12.Inheritance/bin/Debug/netcoreapp3.1/Day12.Inheritance.runtimeconfig.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day12.Inheritance/bin/Debug/netcoreapp3.1/Day12.Inheritance.runtimeconfig.dev.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day12.Inheritance/bin/Debug/netcoreapp3.1/Day12.Inheritance.dll
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day12.Inheritance/bin/Debug/netcoreapp3.1/Day12.Inheritance.pdb
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day12.Inheritance/obj/Debug/netcoreapp3.1/Day12.Inheritance.AssemblyInfoInputs.cache
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day12.Inheritance/obj/Debug/netcoreapp3.1/Day12.Inheritance.AssemblyInfo.cs
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day12.Inheritance/obj/Debug/netcoreapp3.1/Day12.Inheritance.csproj.CoreCompileInputs.cache
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day12.Inheritance/obj/Debug/netcoreapp3.1/Day12.Inheritance.dll
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day12.Inheritance/obj/Debug/netcoreapp3.1/Day12.Inheritance.pdb
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day12.Inheritance/obj/Debug/netcoreapp3.1/Day12.Inheritance.genruntimeconfig.cache

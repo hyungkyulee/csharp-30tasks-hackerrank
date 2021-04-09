@@ -1,0 +1,11 @@
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day08.DictionariesMaps/bin/Debug/netcoreapp3.1/Day08.DictionariesMaps.deps.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day08.DictionariesMaps/bin/Debug/netcoreapp3.1/Day08.DictionariesMaps.runtimeconfig.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day08.DictionariesMaps/bin/Debug/netcoreapp3.1/Day08.DictionariesMaps.runtimeconfig.dev.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day08.DictionariesMaps/bin/Debug/netcoreapp3.1/Day08.DictionariesMaps.dll
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day08.DictionariesMaps/bin/Debug/netcoreapp3.1/Day08.DictionariesMaps.pdb
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day08.DictionariesMaps/obj/Debug/netcoreapp3.1/Day08.DictionariesMaps.AssemblyInfoInputs.cache
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day08.DictionariesMaps/obj/Debug/netcoreapp3.1/Day08.DictionariesMaps.AssemblyInfo.cs
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day08.DictionariesMaps/obj/Debug/netcoreapp3.1/Day08.DictionariesMaps.csproj.CoreCompileInputs.cache
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day08.DictionariesMaps/obj/Debug/netcoreapp3.1/Day08.DictionariesMaps.dll
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day08.DictionariesMaps/obj/Debug/netcoreapp3.1/Day08.DictionariesMaps.pdb
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day08.DictionariesMaps/obj/Debug/netcoreapp3.1/Day08.DictionariesMaps.genruntimeconfig.cache

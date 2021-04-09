@@ -1,0 +1,11 @@
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day17.MoreExceptions/bin/Debug/netcoreapp3.1/Day17.MoreExceptions.deps.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day17.MoreExceptions/bin/Debug/netcoreapp3.1/Day17.MoreExceptions.runtimeconfig.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day17.MoreExceptions/bin/Debug/netcoreapp3.1/Day17.MoreExceptions.runtimeconfig.dev.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day17.MoreExceptions/bin/Debug/netcoreapp3.1/Day17.MoreExceptions.dll
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day17.MoreExceptions/bin/Debug/netcoreapp3.1/Day17.MoreExceptions.pdb
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day17.MoreExceptions/obj/Debug/netcoreapp3.1/Day17.MoreExceptions.AssemblyInfoInputs.cache
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day17.MoreExceptions/obj/Debug/netcoreapp3.1/Day17.MoreExceptions.AssemblyInfo.cs
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day17.MoreExceptions/obj/Debug/netcoreapp3.1/Day17.MoreExceptions.csproj.CoreCompileInputs.cache
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day17.MoreExceptions/obj/Debug/netcoreapp3.1/Day17.MoreExceptions.dll
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day17.MoreExceptions/obj/Debug/netcoreapp3.1/Day17.MoreExceptions.pdb
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day17.MoreExceptions/obj/Debug/netcoreapp3.1/Day17.MoreExceptions.genruntimeconfig.cache

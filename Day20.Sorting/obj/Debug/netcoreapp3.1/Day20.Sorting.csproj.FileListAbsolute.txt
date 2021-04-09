@@ -1,0 +1,11 @@
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day20.Sorting/bin/Debug/netcoreapp3.1/Day20.Sorting.deps.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day20.Sorting/bin/Debug/netcoreapp3.1/Day20.Sorting.runtimeconfig.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day20.Sorting/bin/Debug/netcoreapp3.1/Day20.Sorting.runtimeconfig.dev.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day20.Sorting/bin/Debug/netcoreapp3.1/Day20.Sorting.dll
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day20.Sorting/bin/Debug/netcoreapp3.1/Day20.Sorting.pdb
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day20.Sorting/obj/Debug/netcoreapp3.1/Day20.Sorting.AssemblyInfoInputs.cache
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day20.Sorting/obj/Debug/netcoreapp3.1/Day20.Sorting.AssemblyInfo.cs
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day20.Sorting/obj/Debug/netcoreapp3.1/Day20.Sorting.csproj.CoreCompileInputs.cache
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day20.Sorting/obj/Debug/netcoreapp3.1/Day20.Sorting.dll
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day20.Sorting/obj/Debug/netcoreapp3.1/Day20.Sorting.pdb
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day20.Sorting/obj/Debug/netcoreapp3.1/Day20.Sorting.genruntimeconfig.cache

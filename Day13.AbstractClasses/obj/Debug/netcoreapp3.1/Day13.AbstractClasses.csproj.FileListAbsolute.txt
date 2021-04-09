@@ -1,0 +1,11 @@
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day13.AbstractClasses/bin/Debug/netcoreapp3.1/Day13.AbstractClasses.deps.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day13.AbstractClasses/bin/Debug/netcoreapp3.1/Day13.AbstractClasses.runtimeconfig.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day13.AbstractClasses/bin/Debug/netcoreapp3.1/Day13.AbstractClasses.runtimeconfig.dev.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day13.AbstractClasses/bin/Debug/netcoreapp3.1/Day13.AbstractClasses.dll
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day13.AbstractClasses/bin/Debug/netcoreapp3.1/Day13.AbstractClasses.pdb
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day13.AbstractClasses/obj/Debug/netcoreapp3.1/Day13.AbstractClasses.AssemblyInfoInputs.cache
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day13.AbstractClasses/obj/Debug/netcoreapp3.1/Day13.AbstractClasses.AssemblyInfo.cs
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day13.AbstractClasses/obj/Debug/netcoreapp3.1/Day13.AbstractClasses.csproj.CoreCompileInputs.cache
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day13.AbstractClasses/obj/Debug/netcoreapp3.1/Day13.AbstractClasses.dll
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day13.AbstractClasses/obj/Debug/netcoreapp3.1/Day13.AbstractClasses.pdb
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day13.AbstractClasses/obj/Debug/netcoreapp3.1/Day13.AbstractClasses.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day15.LinkedList/bin/Debug/netcoreapp3.1/Day15.LinkedList.deps.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day15.LinkedList/bin/Debug/netcoreapp3.1/Day15.LinkedList.runtimeconfig.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day15.LinkedList/bin/Debug/netcoreapp3.1/Day15.LinkedList.runtimeconfig.dev.json
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day15.LinkedList/bin/Debug/netcoreapp3.1/Day15.LinkedList.dll
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day15.LinkedList/bin/Debug/netcoreapp3.1/Day15.LinkedList.pdb
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day15.LinkedList/obj/Debug/netcoreapp3.1/Day15.LinkedList.AssemblyInfoInputs.cache
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day15.LinkedList/obj/Debug/netcoreapp3.1/Day15.LinkedList.AssemblyInfo.cs
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day15.LinkedList/obj/Debug/netcoreapp3.1/Day15.LinkedList.csproj.CoreCompileInputs.cache
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day15.LinkedList/obj/Debug/netcoreapp3.1/Day15.LinkedList.dll
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day15.LinkedList/obj/Debug/netcoreapp3.1/Day15.LinkedList.pdb
+/Users/albert/_ref/interview/hackerrank/CodeOfDays/Day15.LinkedList/obj/Debug/netcoreapp3.1/Day15.LinkedList.genruntimeconfig.cache
