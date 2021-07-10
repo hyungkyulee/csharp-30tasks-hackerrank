@@ -22,6 +22,7 @@ namespace Day26.DateTimeNestedLogic
             // Solution 1) directly from UTC library -> ISO
             // Console.WriteLine(DateTime.Now.ToString("dd/MM/yyyy", CultureInfo.InvariantCulture));
             // Console.WriteLine(DateTime.Now.ToString("yyyy-MM-dd"));
+            // Console.WriteLine(DateTime.Now.ToString("u"));
 
             // Solution 2) UK time based input string -> ISO by DateTime Parser + ToString
             // var date = DateTime.Parse(Console.ReadLine() ?? string.Empty, new CultureInfo("en-GB"));
@@ -69,4 +70,5 @@ namespace Day26.DateTimeNestedLogic
             Console.WriteLine(fine);
         }
     }
+    
 }
